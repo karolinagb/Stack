@@ -1,0 +1,16 @@
+C:\projetos\Stack\PilhasEmCsharp\PilhasEmCsharp\bin\Debug\net5.0\PilhasEmCsharp.exe
+C:\projetos\Stack\PilhasEmCsharp\PilhasEmCsharp\bin\Debug\net5.0\PilhasEmCsharp.deps.json
+C:\projetos\Stack\PilhasEmCsharp\PilhasEmCsharp\bin\Debug\net5.0\PilhasEmCsharp.runtimeconfig.json
+C:\projetos\Stack\PilhasEmCsharp\PilhasEmCsharp\bin\Debug\net5.0\PilhasEmCsharp.runtimeconfig.dev.json
+C:\projetos\Stack\PilhasEmCsharp\PilhasEmCsharp\bin\Debug\net5.0\PilhasEmCsharp.dll
+C:\projetos\Stack\PilhasEmCsharp\PilhasEmCsharp\bin\Debug\net5.0\ref\PilhasEmCsharp.dll
+C:\projetos\Stack\PilhasEmCsharp\PilhasEmCsharp\bin\Debug\net5.0\PilhasEmCsharp.pdb
+C:\projetos\Stack\PilhasEmCsharp\PilhasEmCsharp\obj\Debug\net5.0\PilhasEmCsharp.csproj.AssemblyReference.cache
+C:\projetos\Stack\PilhasEmCsharp\PilhasEmCsharp\obj\Debug\net5.0\PilhasEmCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Stack\PilhasEmCsharp\PilhasEmCsharp\obj\Debug\net5.0\PilhasEmCsharp.AssemblyInfoInputs.cache
+C:\projetos\Stack\PilhasEmCsharp\PilhasEmCsharp\obj\Debug\net5.0\PilhasEmCsharp.AssemblyInfo.cs
+C:\projetos\Stack\PilhasEmCsharp\PilhasEmCsharp\obj\Debug\net5.0\PilhasEmCsharp.csproj.CoreCompileInputs.cache
+C:\projetos\Stack\PilhasEmCsharp\PilhasEmCsharp\obj\Debug\net5.0\PilhasEmCsharp.dll
+C:\projetos\Stack\PilhasEmCsharp\PilhasEmCsharp\obj\Debug\net5.0\ref\PilhasEmCsharp.dll
+C:\projetos\Stack\PilhasEmCsharp\PilhasEmCsharp\obj\Debug\net5.0\PilhasEmCsharp.pdb
+C:\projetos\Stack\PilhasEmCsharp\PilhasEmCsharp\obj\Debug\net5.0\PilhasEmCsharp.genruntimeconfig.cache
